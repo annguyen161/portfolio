@@ -307,6 +307,7 @@
                 <a
                   href="#"
                   class="portfolio-card"
+                  data-project="airport-t3"
                   style="
                     background-image: url('./assets/images/portfolio-1.jpg');
                   "
@@ -331,6 +332,7 @@
                 <a
                   href="#"
                   class="portfolio-card"
+                  data-project="finance"
                   style="
                     background-image: url('./assets/images/portfolio-2.jpg');
                   "
@@ -355,6 +357,7 @@
                 <a
                   href="#"
                   class="portfolio-card"
+                  data-project="movenjoy"
                   style="
                     background-image: url('./assets/images/portfolio-3.jpg');
                   "
@@ -379,6 +382,7 @@
                 <a
                   href="#"
                   class="portfolio-card"
+                  data-project="ihmgas"
                   style="
                     background-image: url('./assets/images/portfolio-4.jpg');
                   "
@@ -794,6 +798,40 @@
   -->
 
     <a href="#top" class="back-to-top" data-back-to-top>BACK TOP</a>
+
+    <!-- 
+    - PROJECT MODAL
+  -->
+    <div id="project-modal" class="modal-overlay project-modal-overlay" style="display: none">
+      <div class="modal-content project-modal-content">
+        <button class="project-modal-close" aria-label="Close modal">
+          <ion-icon name="close-outline"></ion-icon>
+        </button>
+        
+        <div class="project-modal-header">
+          <p class="project-modal-subtitle" id="project-modal-subtitle">Website</p>
+          <h2 class="h2 project-modal-title" id="project-modal-title">Project Title</h2>
+          <p class="project-modal-period" id="project-modal-period">Period</p>
+        </div>
+
+        <div class="project-modal-body">
+          <div class="project-section">
+            <h3 class="project-section-title" data-i18n="projectModal.description">Description</h3>
+            <p class="project-section-text" id="project-modal-description"></p>
+          </div>
+
+          <div class="project-section">
+            <h3 class="project-section-title" data-i18n="projectModal.responsibilities">Responsibilities</h3>
+            <ul class="project-responsibilities" id="project-modal-responsibilities"></ul>
+          </div>
+
+          <div class="project-section">
+            <h3 class="project-section-title" data-i18n="projectModal.technologies">Technologies</h3>
+            <div class="project-tech-tags" id="project-modal-technologies"></div>
+          </div>
+        </div>
+      </div>
+    </div>
 
     <!-- 
     - SUCCESS MODAL
