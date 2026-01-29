@@ -382,7 +382,7 @@ const projectsData = {
   'ihmgas': {
     en: {
       subtitle: 'Desktop App',
-      title: 'IHMGas - Industrial Gas Analysis Tool',
+      title: 'IHMGas - Industrial Gas Analysis & Compliance Tool',
       period: '06/2025 - 08/2025',
       description: 'IHM Gas Tool – Desktop application built with Electron, React, and TypeScript for industrial gas analysis in compliance with ISO standards. Features include gas mixture unit conversion, operating condition calculations, Excel/CSV export, authentication, and multi-language support. A professional tool for the industrial gas sector.',
       responsibilities: [
