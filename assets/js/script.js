@@ -16,18 +16,18 @@ const translations = {
     },
     hero: {
       greeting: "Hello I'm",
-      title: "Software Engineer from Ho Chi Minh",
-      description: "With three years of experience in web and mobile development using ReactJS and React Native, I build interactive, responsive applications that deliver great user experiences across both web and mobile platforms.",
+      title: "Full Stack Developer from Ho Chi Minh",
+      description: "Full Stack Developer with 3+ years of experience building web and mobile applications using ReactJS, React Native, Node.js, and Express. I develop user interfaces, APIs, and data flows between systems with a focus on performance and reliability.",
       yearsExp: "Years of Experience",
       projectsCompleted: "Projects Completed",
       getQuote: "Get a Quote",
       aboutMe: "About Me"
     },
     about: {
-      subtitle: "I'm a Software Engineer",
-      title: "I Develop Web & Mobile Applications",
-      description1: "With three years of experience in web and mobile development using ReactJS and React Native, I have successfully built interactive, responsive applications that deliver great user experiences across both web and mobile platforms. My familiarity with various web and mobile technologies within the JavaScript ecosystem allows me to create seamless and engaging user interfaces.",
-      description2: "I am committed to continuous learning and am always eager to explore new technologies and best practices, ensuring that I remain relevant in the rapidly evolving world of software development. Graduated from Gia Dinh University with a major in Software Engineering (GPA: 8/10). Currently working as Frontend Developer at DFM-EUROPE since May 2025.",
+      subtitle: "I'm a Full Stack Developer",
+      title: "I Build End-to-End Web & Mobile Products",
+      description1: "Full Stack Developer with 3+ years of experience delivering web and mobile applications using ReactJS, React Native, Node.js, and Express. I work across frontend and backend, from building clean interfaces to implementing APIs and handling data communication between systems.",
+      description2: "I focus on writing maintainable code, optimizing performance, and building reliable features in Agile environments. Graduated from Gia Dinh University, majoring in Software Engineering (GPA: 3.2/4.0). Currently working as Full Stack Developer at DFM Engineering since May 2025.",
       viewPortfolio: "View Portfolio"
     },
     portfolio: {
@@ -38,7 +38,7 @@ const translations = {
     skills: {
       subtitle: "My Skills",
       title: "Technical Skills & Expertise",
-      description: "Proficient in modern web and mobile development technologies with a focus on JavaScript ecosystem and UI/UX optimization."
+      description: "Strong foundation in frontend, backend, and database technologies to deliver complete full-stack solutions from UI to API and data."
     },
     contact: {
       subtitle: "Don't be shy",
@@ -73,18 +73,18 @@ const translations = {
     },
     hero: {
       greeting: "Xin chào, tôi là",
-      title: "Kỹ Sư Phần Mềm đến từ TP. Hồ Chí Minh",
-      description: "Với ba năm kinh nghiệm trong phát triển web và mobile sử dụng ReactJS và React Native, tôi xây dựng các ứng dụng tương tác, responsive mang lại trải nghiệm người dùng tuyệt vời trên cả nền tảng web và mobile.",
+      title: "Lập Trình Viên Full Stack đến từ TP. Hồ Chí Minh",
+      description: "Lập trình viên Full Stack với hơn 3 năm kinh nghiệm xây dựng ứng dụng web và mobile bằng ReactJS, React Native, Node.js và Express. Tôi phát triển giao diện, API và luồng dữ liệu giữa các hệ thống với trọng tâm là hiệu năng và độ tin cậy.",
       yearsExp: "Năm Kinh Nghiệm",
       projectsCompleted: "Dự Án Hoàn Thành",
       getQuote: "Nhận Báo Giá",
       aboutMe: "Về Tôi"
     },
     about: {
-      subtitle: "Tôi là Kỹ Sư Phần Mềm",
-      title: "Tôi Phát Triển Ứng Dụng Web & Mobile",
-      description1: "Với ba năm kinh nghiệm trong phát triển web và mobile sử dụng ReactJS và React Native, tôi đã xây dựng thành công các ứng dụng tương tác, responsive mang lại trải nghiệm người dùng tuyệt vời trên cả nền tảng web và mobile. Sự quen thuộc của tôi với nhiều công nghệ web và mobile khác nhau trong hệ sinh thái JavaScript cho phép tôi tạo ra giao diện người dùng liền mạch và hấp dẫn.",
-      description2: "Tôi cam kết học hỏi liên tục và luôn háo hức khám phá các công nghệ mới và thực tiễn tốt nhất, đảm bảo rằng tôi luôn cập nhật trong thế giới phát triển phần mềm đang phát triển nhanh chóng. Tốt nghiệp Đại học Gia Định chuyên ngành Kỹ Thuật Phần Mềm (GPA: 8/10). Hiện đang làm việc với vai trò Frontend Developer tại DFM-EUROPE từ tháng 5 năm 2025.",
+      subtitle: "Tôi là Lập Trình Viên Full Stack",
+      title: "Tôi Xây Dựng Sản Phẩm Web & Mobile End-to-End",
+      description1: "Lập trình viên Full Stack với hơn 3 năm kinh nghiệm phát triển ứng dụng web và mobile bằng ReactJS, React Native, Node.js và Express. Tôi làm việc ở cả frontend và backend, từ xây dựng giao diện rõ ràng đến triển khai API và xử lý luồng dữ liệu giữa các hệ thống.",
+      description2: "Tôi tập trung vào mã nguồn dễ bảo trì, tối ưu hiệu năng và xây dựng tính năng ổn định trong môi trường Agile. Tốt nghiệp Đại học Gia Định, chuyên ngành Kỹ Thuật Phần Mềm (GPA: 3.2/4.0). Hiện đang làm việc với vai trò Full Stack Developer tại DFM Engineering từ tháng 5 năm 2025.",
       viewPortfolio: "Xem Dự Án"
     },
     portfolio: {
@@ -95,7 +95,7 @@ const translations = {
     skills: {
       subtitle: "Kỹ Năng Của Tôi",
       title: "Kỹ Năng Kỹ Thuật & Chuyên Môn",
-      description: "Thành thạo các công nghệ phát triển web và mobile hiện đại với trọng tâm là hệ sinh thái JavaScript và tối ưu hóa UI/UX."
+      description: "Nền tảng vững về frontend, backend và database để xây dựng giải pháp full stack hoàn chỉnh từ giao diện, API đến dữ liệu."
     },
     contact: {
       subtitle: "Đừng ngại ngần",
